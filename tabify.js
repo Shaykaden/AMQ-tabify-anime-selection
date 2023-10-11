@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         AMQ Tab Selection
+// @name         AMQ Tabify Anime Selection
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @licence      MIT
