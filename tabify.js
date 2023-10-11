@@ -2,6 +2,7 @@
 // @name         AMQ Tab Selection
 // @namespace    http://tampermonkey.net/
 // @version      1.0
+// @licence      MIT
 // @description  Use the tab key to navigate through the anime selection.
 // @author       Shaykaden
 // @match        https://animemusicquiz.com/
