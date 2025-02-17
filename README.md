@@ -9,8 +9,8 @@ You can now scroll through the anime selection using the Tab key !
 
 ## Installation 
 
-Install the `TamperMonkey` extension
- - Chrome Web Store : https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo
- - Firefox : https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
+Install the `Violentmonkey` extension :
+ - Chrome Web Store : https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag
+ - Firefox : https://addons.mozilla.org/firefox/addon/violentmonkey/
 
 Install the script: https://greasyfork.org/scripts/477189-amq-tabify-anime-selection/code/AMQ%20Tabify%20Anime%20Selection.user.js
