@@ -1,5 +1,5 @@
 # AMQ-tabify-anime-selection
-Tampermonkey script for AMQ ([animemusicquiz.com](https://animemusicquiz.com/))
+A user script for AMQ ([animemusicquiz.com](https://animemusicquiz.com/))
 
 You can now scroll through the anime selection using the Tab key !
 
